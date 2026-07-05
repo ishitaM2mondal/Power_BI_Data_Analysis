@@ -6,7 +6,8 @@ The **PhonePe Transaction Analytics Dashboard** is a Power BI project built usin
 
 The primary objective of this project is to transform raw transaction data into meaningful business insights through **data cleaning, data analysis, KPI generation, and interactive visualizations**. The dashboard enables users to monitor transaction trends, evaluate performance, compare monthly growth, and make informed business decisions with ease.
 
-<img width="2500" height="1339" alt="image" src="https://github.com/user-attachments/assets/078c5df8-6747-42b9-a0f2-1067c9008a4d" />
+<img width="1329" height="742" alt="image" src="https://github.com/user-attachments/assets/1502bb40-568a-4471-80f8-dc8ac86c0676" />
+
 
 
 ---
